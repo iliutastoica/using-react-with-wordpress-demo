@@ -8,7 +8,7 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "bulma": "^0.7.2",
+    "bulma": "^0.8.0",
     "parcel": "^1.11.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
